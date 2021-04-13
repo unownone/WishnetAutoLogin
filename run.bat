@@ -1,2 +1,2 @@
 @echo on
-pythonw.exe checker.py
+start pythonw.exe checker.py
